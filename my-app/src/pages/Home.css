@@ -1,0 +1,29 @@
+h1 {
+    align-items: center;
+    color: orange;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3 {
+  align-items: center;
+  color: orange;
+  font-family: 'Courier New', Courier, monospace;
+}
+h2 {
+  align-items: center;
+  color: orange;
+  font-family: 'Courier New', Courier, monospace;
+}
+p.hr {
+  color: yellow;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    align-items: center;
+    background-color: whitesmoke;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }

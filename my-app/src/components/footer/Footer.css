@@ -1,0 +1,12 @@
+.app-footer {
+    background: #e6901f;
+    padding: .5rem 2rem;
+    text-align: center;
+    width: 100vw;
+    height: 20vh;
+}
+
+.app-footer__message {
+    color: #f1f0ea;
+    font-family: 'Courier New', Courier, monospace;
+}

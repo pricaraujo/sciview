@@ -1,0 +1,1 @@
+export { TetrahedronSpace } from './tetrahedron'
